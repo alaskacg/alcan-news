@@ -49,7 +49,7 @@ const sponsorData = {
   },
   listings: {
     name: 'Alaska Listings',
-    tagline: 'FREE 60-day listings during beta! List your property, equipment, or services today.',
+    tagline: 'FREE 60-day listings! List your property, equipment, or services today.',
     url: 'https://alaskalistings.com',
     className: 'sponsor-banner-tech',
     textColor: 'text-white'
